@@ -1,32 +1,11 @@
 # Welcome to my personal practice website!
 
-## About This Site
+## Future Plans about this site
 
-This website was created in order to practice HTML and CSS and how it looks when it applied on the browser screen.  
+In the future i want to make this site contain my daily blog activity and share anything that may be enjoyable to read.  
 
-## Site Ingridients
 
-This site purely consist only HTML and CSS code which are using several tags & syntaxes such as:
 
-### HTML Tags
-```
-<!DOCTYPE>
-<html>
-<head></head>
-<body></body>
-</html>
-```
-
-### CSS Syntaxes
-```
-background-image
-background
-color
-padding
-margin
-border
-etc.
-```
 
 ## The newbie behind the codes
 
