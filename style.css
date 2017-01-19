@@ -1,5 +1,5 @@
 /*test*/
-body {
+body 	{
 	font-family: 'Raleway', sans-serif;
 	background: url(img/pattern.png);
 	margin:0px;
@@ -25,7 +25,7 @@ header img{
 header img:hover{
 	content:url(img/logo2.png);
 	}
-ul {
+ul 	{
 	float:right;
 	list-style-type: none;
     	margin-top: 4%;
@@ -35,7 +35,7 @@ ul {
     	border: 0;
     	overflow: hidden;
 	}
-ul a {
+ul a 	{
 	display: inline-block;
     	color: black;
     	text-align: center;
@@ -49,7 +49,7 @@ ul a:hover {
 ul a:active{
 	font-weight:900;
 	}
-.main{
+.main	{
 	padding-top:150px;
 	max-width:90%;
 	margin:auto;
@@ -131,6 +131,6 @@ footer {
 	text-align:center;
 	background-color: black;
 	color: #fff;
-	padding: 0;
+	padding:10px;
 	bottom:0;
 	}
