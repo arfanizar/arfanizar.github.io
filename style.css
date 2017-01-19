@@ -28,18 +28,18 @@ header img:hover{
 ul {
 	float:right;
 	list-style-type: none;
-    margin-top: 40px;
+    	margin-top: 40px;
 	margin-bottom:0;
-    padding-right: 10px;
+    	padding-right: 10px;
 	padding-bottom:0;
-    border: 0;
-    overflow: hidden;
+    	border: 0;
+    	overflow: hidden;
 	}
 ul a {
 	display: inline-block;
-    color: black;
-    text-align: center;
-    text-decoration: none;
+    	color: black;
+    	text-align: center;
+    	text-decoration: none;
 	padding: 12px 16px;
 	}
 ul a:hover {
@@ -125,11 +125,12 @@ ul a:active{
 .facebook:hover{color:blue;}
 .linkedin:hover{color:green;}
 .github:hover{color:purple;}
+
 footer {
 	clear:both;
 	text-align:center;
 	background-color: black;
 	color: #fff;
-	padding: 10px;
+	padding: 0px;
 	bottom:0;
 	}
