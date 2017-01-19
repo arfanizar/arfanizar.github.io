@@ -3,7 +3,6 @@ body {
 	font-family: 'Raleway', sans-serif;
 	background: url(img/pattern.png);
 	margin:0px;
-	background-repeat:no-repeat;
 	}
 a 	{
 	text-decoration:none;
@@ -52,13 +51,13 @@ ul a:active{
 	}
 .main{
 	padding-top:150px;
-	max-width:70%;
+	max-width:90%;
 	margin:auto;
 	padding-bottom:50px;
 	}
 .lcontainer{
 	float:left;
-	max-width: 20%;
+	max-width: 25%;
 	padding: 10px 20px;
 	background-color:white;
 	border:0.5px solid lightgrey;
