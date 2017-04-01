@@ -43,6 +43,7 @@ li a {
 
 li a:hover {
            background-color: lightblue;
+	   color: black;
            }
 
 .main	{
