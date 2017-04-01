@@ -1,8 +1,10 @@
 # Welcome to my personal practice website!
 
+Try me here: [arfanizar.github.io](https://arfanizar.github.io/)
+
 ## About This Site
 
-This website was created in order to practice HTML and CSS and how it looks when it applied on the browser screen.  
+This website was created in order to practice HTML and CSS and how it looks when it applied on the browser screen.
 
 ## Site Ingridients
 
