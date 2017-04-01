@@ -6,7 +6,7 @@ body{
 	margin:auto;
 	background-image:url('img/pattern.png');
 	}
-a 	{
+li 	{
 	text-decoration:none;
 	color:black;
 	}
@@ -34,16 +34,16 @@ nav ul	{
     	border: 0;
     	overflow: hidden;
     	}
-ul a 	{
+ul li 	{
     	display: inline-block;
     	color: lightblue;
     	text-align: center;
     	padding: 12px 16px;
     	}
-ul a:hover {
+ul li:hover {
     	background-color: lightblue;
 	color: black;
-    	}	
+    	}
 .main	{
 	padding-top:150px;
 	margin:auto;
@@ -75,7 +75,7 @@ ul a:hover {
 	border-bottom:1px solid grey;
 	}
 	p {
-	text-align:justify;	
+	text-align:justify;
 	}
 .rcontainer{
 	float:right;
@@ -93,7 +93,7 @@ ul a:hover {
 .interest{
 	text-align:center;
 	margin-bottom:10px;
-	}	
+	}
 .content{
 	display:inline-block;
 	max-width:20%;
