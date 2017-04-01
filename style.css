@@ -23,10 +23,10 @@ header img{
 header img:hover{
 	content:url('img/logos2.png')
 	}
-nav ul	{
+ul	{
     	max-width:85%;
-			width: 100%;
-			background-color: black;
+	width: 100%;
+	background-color: black;
     	position: fixed;
     	list-style-type: none;
     	margin: 0;
